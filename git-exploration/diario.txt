@@ -3,3 +3,5 @@ Día 1: "Primeros pasos en Git
 Día 2: "Explorando por Git
 
 Día 3: "Aprendiendo sobre los commits en Git"
+
+Día 4: "Realizando cambios en el ultimo commit"
